@@ -7,22 +7,22 @@
     text-align: center;
     margin-bottom: 22px;
 }
-.caption 1, .caption 2, .caption 3{
+.caption1, .caption2, .caption3{
     float: right;
     border: 2px solid black;
     display: block;
     width: 100px;
     text-align: center;
 }
-.caption 1{
+.caption1{
     background-color: orange;
     color: black;
 }
-.caption 2{
+.captio2{
     background-color: ruby;
     color:  black;
 }
-.caption 3{
+.caption3{
     background-color: peach;
     color:  black;
 }
