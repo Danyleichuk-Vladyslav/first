@@ -11,7 +11,7 @@
     float: right;
     border: 2px solid black;
     display: block;
-    width: 80px;
+    width: 100px;
     text-align: center;
 }
 .caption1{
@@ -19,11 +19,11 @@
     color: black;
 }
 .caption2{
-    background-color: ruby;
-    color:  black;
+    background-color: ;
+    color:  black; cerise;
 }
 .caption3{
-    background-color: peach;
+    background-color: pink;
     color:  black;
 }
 .block{
