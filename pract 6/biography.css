@@ -180,7 +180,18 @@ li:active{
    .col-sm-12 {
     flex-basis: 100%;
    }
-  }
+}
+p > a{
+    font-style: oblique;
+}
+#main > h3{
+    text-align: center;
+}
+body > a{
+    font-weight: bold;
+}
+#bottom{
+    text-transform: uppercase;
 }
 #section1, #section2, #section3, #section4, #section5{
     font-size: 1.2em;
