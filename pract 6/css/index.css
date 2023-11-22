@@ -37,7 +37,7 @@
  
 
     @media (min-width: 992px) {
- .row-lg {
+ .row {
     display: flex;
     flex-wrap: wrap;
   }
@@ -90,7 +90,7 @@
     /* Medium devices */
     @media (min-width: 768px) and (max-width: 992px) {
 
- .row-md {
+ .row{
     display: flex;
     flex-wrap: wrap;
   }	    
@@ -136,7 +136,7 @@
     }
     }
     @media (max-width:  768px) {
-	     .row-sm {
+	     .row{
     display: flex;
     flex-wrap: wrap;
   }
