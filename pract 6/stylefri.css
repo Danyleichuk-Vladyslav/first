@@ -40,7 +40,7 @@
 
 /* Large devices*/
 @media (min-width: 992px) {
-    .big-top th{
+    .big-top td{
         font-size: 1.3em;
     }
     .big-nottop td{
@@ -49,7 +49,7 @@
 }
 /* Medium devices */
 @media (min-width: 768px) and (max-width: 992px) {
-    .mdm-top th{
+    .mdm-top td{
         font-size: 1.2em;
     }
     .mdm-nottop td{
