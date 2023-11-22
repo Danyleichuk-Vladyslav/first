@@ -56,12 +56,11 @@ li:active{
 		color: brown;
 		font-size: 120%;
 	}
- .container{
+.container{
     display: flex;
-    flex-wrap: wrap;
     flex-direction: row;
-  }
-
+    flex-wrap: wrap;
+}
   @media (min-width: 992px) {
   
    .col-lg-1 {
