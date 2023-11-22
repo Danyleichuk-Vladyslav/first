@@ -29,10 +29,14 @@
   font-weight: bold; 	
  text-align: right;	 
 	  }
-	tr,th, td, {
-		border: 1px solid black;
-		padding: 8px;
-		text-align: left;
+table{
+    border-collapse: collapse;
+}
+	table td,th{
+    border: solid black 2px;
+    text-align: center;
+    padding: 2px;
+}
 	}
 	tr:nth-child(even){
 		background-color: #f2f2f2;
