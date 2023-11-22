@@ -179,23 +179,4 @@ li:active{
    .col-sm-12 {
     flex-basis: 100%;
    }
-}
-p > a{
-    font-style: oblique;
-}
-#main > h3{
-    text-align: center;
-}
-body > a{
-    font-weight: bold;
-}
-#up{
-    text-transform: uppercase;
-}
-#section1, #section2, #section3, #section4, #section5{
-    font-size: 1.2em;
-    border: solid 1px;
-}
-#section1>h3, #section2>h3, #section3>h3, #section4>h3, #section5>h3{
-    font-size: 1.44em;
-}
+
