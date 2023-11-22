@@ -1,0 +1,58 @@
+   .height{
+			text-transform: uppercase;
+		}
+
+		.backward{
+			 font-weight: bold
+		}
+
+		.info{
+			font-size:140%;
+		}
+        .bin{
+			text-align: center;
+			font-size: 22px;
+		}
+		.basic{
+			text-align: center;
+		}
+		
+		.luck{
+			font-style: italic;
+		}
+   li {
+        border: 5px solid blue ;
+    }
+        li:hover{
+            color:magenta;
+            background-color: magenta;
+        }
+li:active{
+    color:yellow;
+    background-color: yellow;
+}
+   .now1{
+            background-color:yellow;
+            color:red;
+	   font-size: 120%;
+        }
+        .now2{
+            background-color:lightcoral;
+            color:blue;
+		font-size: 120%;
+        }
+        .now3{
+            background-color:lightgreen;
+            color:maroon;
+		font-size: 120%;
+        }
+        .now4{
+            background-color: lightblue;
+            color:indigo;
+		font-size: 120%;
+        }
+	.now5{
+		background-color:lightpink;
+		color: brown;
+		font-size: 120%;
+	}
