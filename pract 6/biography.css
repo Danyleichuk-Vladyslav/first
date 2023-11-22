@@ -181,3 +181,11 @@ li:active{
     flex-basis: 100%;
    }
   }
+}
+#section1, #section2, #section3, #section4, #section5{
+    font-size: 1.2em;
+    border: solid 1px;
+}
+#section1>h3, #section2>h3, #section3>h3, #section4>h3, #section5>h3{
+    font-size: 1.44em;
+}
