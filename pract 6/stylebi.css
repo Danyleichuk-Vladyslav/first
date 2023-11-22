@@ -21,7 +21,11 @@
 			font-style: italic;
 		}
    li {
-        border: 5px solid blue ;
+    list-style: none;
+    width:130px;
+    border: solid black 2px;
+    background-color: blue;
+    margin-bottom: 20px;;
     }
         li:hover{
             color:magenta;
