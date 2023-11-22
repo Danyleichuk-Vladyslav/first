@@ -37,11 +37,17 @@ table{
     text-align: center;
     padding: 2px;
 }
-	}
-	tr:nth-child(even){
-		background-color: #f2f2f2;
-	}
-	}
+
+	th{
+    text-align: center;
+    background-color: green;
+    color:white;
+    font-weight:bold;
+}
+th:nth-child(5), td:nth-child(5){
+    text-align: end;
+}
+	
 
 /* Large devices*/
 @media (min-width: 992px) {
