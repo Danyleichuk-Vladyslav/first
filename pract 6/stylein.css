@@ -32,12 +32,11 @@
 		color:orange;
 	}
 	
+.container{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
-    ul{
-          display: flex;
-          flex-wrap: wrap;
-          flex-direction: row;
-        }
 
           /* large */
           @media (min-width: 992px) {  
