@@ -1,1 +1,34 @@
+.center{
+		text-align:center;
+		font-size: 24px;
+	}
+	.br{
+		font-size: 120%;
+	}
+    #ba:link{
+		color:pink;
+	}
 
+	#ba:visited {
+		color:magenta;
+	}
+
+	#b:link{
+		color:green;
+	}
+	#b:visited{
+		color:yellow;
+	}
+	#a:link{
+		color:blue;
+	}
+	#a:visited{
+		color:lightgreen;
+	}
+	#b1:link{
+		color:aqua;
+	}
+	#b1:visited{
+		color:orange;
+	}
+	
