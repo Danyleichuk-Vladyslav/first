@@ -1,5 +1,5 @@
 
-    .center{
+ .center{
   text-align: center;
   font-size: 22px;
 }
@@ -29,25 +29,14 @@
   font-weight: bold; 	
  text-align: right;	 
 	  }
-table{
-    border-collapse: collapse;
-}
-	table td,th{
-    border: solid black 2px;
-    text-align: center;
-    padding: 2px;
-}
-
-	th{
-    text-align: center;
-    background-color: green;
-    color:white;
-    font-weight:bold;
-}
-th:nth-child(5), td:nth-child(5){
-    text-align: end;
-}
-	
+	tr,td {
+		border: 1px solid black;
+		padding: 8px;
+		text-align: left;
+	}
+	tr:nth-child(even){
+		background-color: #f2f2f2;
+	}
 
 /* Large devices*/
 @media (min-width: 992px) {
