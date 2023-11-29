@@ -36,6 +36,21 @@ section {
 #block4 {
     background-color: #909090;
 }
+h2, h3 {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    width: fit-content;
+}
+
+h2 {
+    font-size: 120%;
+}
+
+h3 {
+    font-size: 110%;
+}
+
 .container{
     display:flex;
     flex-direction: row;
